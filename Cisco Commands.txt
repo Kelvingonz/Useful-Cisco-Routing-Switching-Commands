@@ -1,4 +1,4 @@
-Config terminal revert timer 20 - Helps prevent locking yourself out of a switch. Make changes to the config, but revert back in 20 minutes if I do not confirm. 
+Config terminal revert timer 20 - Helps prevent locking yourself out of a switch/router after a bad configuration. Make changes to the config, but revert back in 20 minutes if you do not confirm. Must use specific command "Configure confirm" before timer is up.
 
 show ip device tracker or show device-tracker bindings - Use this on an access switch to find the IP address of the device that is connected to a port.
 
